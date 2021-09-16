@@ -1,4 +1,4 @@
-## twitch-antibot
+# Welcome to the twitch-antibot repository.
 
 ## What is this?
 
