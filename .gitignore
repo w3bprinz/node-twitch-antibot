@@ -27,3 +27,6 @@ hs_err_pid*
 
 # MD Files not for Public
 NotPublic.md
+
+# dependencies
+**/node_modules
