@@ -1,4 +1,6 @@
-# What is this?
+## twitch-antibot
+
+## What is this?
 
 This is a twitch bot to fight agains viewer bots and other bots.
 
@@ -6,7 +8,7 @@ This is a twitch bot to fight agains viewer bots and other bots.
 
 This bot checks the current members in your chat and check if there are bots using the TwitchInsights API.
 
-# API for getting all Bots
+## API for getting all Bots
 
 - https://api.twitchinsights.net/v1/bots/all
 - https://api.twitchinsights.net/v1/bots/online
