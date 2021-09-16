@@ -1,7 +1,7 @@
 # API for getting all Bots
 
-https://api.twitchinsights.net/v1/bots/all
-https://api.twitchinsights.net/v1/bots/online
+- https://api.twitchinsights.net/v1/bots/all
+- https://api.twitchinsights.net/v1/bots/online
 
 # Twitch Bot API
 
